@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="pineda_transform.xsl"?>
+
+<portfolio>
+    <student>
+        <firstname>France Marcus</firstname>
+        <lastname>Pineda</lastname>
+        <course>BSIT</course>
+        <yearLevel>3</yearLevel>
+    </student>
+    
+    <projects>
+        <project id="1">
+            <title>Enrollment System</title>
+            <description>Simple Java enrollment project.</description>
+            <year>2024</year>
+        </project>
+        
+        <project id="2">
+            <title>Game Project</title>
+            <description>Small Unity 2D game.</description>
+            <year>2025</year>
+        </project>
+    </projects>
+    
+    <skills>
+        <skill>Java</skill>
+        <skill>HTML</skill>
+        <skill>Database</skill>
+    </skills>
+</portfolio>
